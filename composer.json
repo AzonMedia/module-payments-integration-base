@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Azonmedia\\Payments\\Integrations\\Base": "src/"
+            "Azonmedia\\Payments\\Integrations\\Base\\": "src/"
         }
     }
 }
