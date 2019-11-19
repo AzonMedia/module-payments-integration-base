@@ -1,9 +1,9 @@
 {
-    "name": "azonmedia/payments",
+    "name": "azonmedia/payments-integrations-base",
     "type": "library",
     "description": "Payment integration interfaces",
     "keywords": ["payment integration","payment interfaces"],
-    "homepage": "https://github.com/AzonMedia/module-payments",
+    "homepage": "https://github.com/AzonMedia/module-payments-integration-base",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Azonmedia\\Payments\\": "src/"
+            "Azonmedia\\Payments\\Integrations\\Base": "src/"
         }
     }
 }

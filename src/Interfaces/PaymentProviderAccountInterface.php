@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Azonmedia\Payments\Interfaces;
+namespace Azonmedia\Payments\Integrations\Base\Interfaces;
 
 /**
  * Interface PaymentProvierAccountInterface
