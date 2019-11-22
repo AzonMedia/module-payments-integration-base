@@ -1,11 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace Azonmedia\Payments\Integrations\Base\Interfaces;
+namespace GuzabaPlatform\Payments\Integrations\Base\Interfaces;
 
 /**
  * Interface CommandTargetInterface
- * @package Azonmedia\Payments\Interfaces
+ * @package GuzabaPlatform\Payments\Interfaces
  * Represents an account, CC or another object that can have payments commands (like charge()) executed against.
  */
 interface CommandTargetInterface

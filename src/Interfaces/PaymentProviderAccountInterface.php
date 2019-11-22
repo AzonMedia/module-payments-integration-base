@@ -1,11 +1,11 @@
 <?php
 declare(strict_types=1);
 
-namespace Azonmedia\Payments\Integrations\Base\Interfaces;
+namespace GuzabaPlatform\Payments\Integrations\Base\Interfaces;
 
 /**
- * Interface PaymentProvierAccountInterface
- * @package Azonmedia\Payments\Interfaces
+ * Interface PaymentProviderAccountInterface
+ * @package GuzabaPlatform\Payments\Interfaces
  * Represents an account with a payment provider
  */
 interface PaymentProviderAccountInterface

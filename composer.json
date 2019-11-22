@@ -1,5 +1,5 @@
 {
-    "name": "azonmedia/payments-integrations-base",
+    "name": "guzaba-platform/payments-integrations-base",
     "type": "library",
     "description": "Payment integration interfaces",
     "keywords": ["payment integration","payment interfaces"],
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Azonmedia\\Payments\\Integrations\\Base\\": "src/"
+            "GuzabaPlatform\\Payments\\Integrations\\Base\\": "src/"
         }
     }
 }
