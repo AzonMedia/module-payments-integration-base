@@ -16,4 +16,10 @@ interface PaymentProviderAccountInterface
      */
     public function get_name() /* string */ ;
     public function get_id() /* scalar */ ;
+
+    /**
+     * Is it currently enabled.
+     * @return bool
+     */
+    public function is_enabled() : bool ;
 }
